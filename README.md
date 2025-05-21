@@ -1,5 +1,5 @@
-# git-hints
+# git-knowledge
 
 ## Небольшой гит-репозиторий для самостоятельной работы
 
-`git clone https://github.com/PraktikumJava/git-hints.git`
+
